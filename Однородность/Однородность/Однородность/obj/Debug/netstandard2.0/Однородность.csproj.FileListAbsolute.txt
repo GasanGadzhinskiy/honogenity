@@ -1,0 +1,13 @@
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность\bin\Debug\netstandard2.0\Однородность.deps.json
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность\bin\Debug\netstandard2.0\Однородность.dll
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность\bin\Debug\netstandard2.0\Однородность.pdb
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность\obj\Debug\netstandard2.0\Однородность.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность\obj\Debug\netstandard2.0\Однородность.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность\obj\Debug\netstandard2.0\Однородность.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность\obj\Debug\netstandard2.0\Однородность.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность\obj\Debug\netstandard2.0\Однородность.dll
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность\obj\Debug\netstandard2.0\Однородность.pdb
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность\obj\Debug\netstandard2.0\AddPage.xaml.g.cs

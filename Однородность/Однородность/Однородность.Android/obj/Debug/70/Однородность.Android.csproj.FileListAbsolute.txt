@@ -1,0 +1,5 @@
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность.Android\obj\Debug\70\MonoAndroid,Version=v7.0.AssemblyAttributes.cs
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность.Android\obj\Debug\70\Однородность.Android.nuget.stamp
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность.Android\obj\Debug\70\Однородность.Android.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность.Android\obj\Debug\70\libraryimports.cache.stamp
+C:\Users\Пользователь\source\repos\Android\Однородность\Однородность\Однородность.Android\obj\Debug\70\res.flag
